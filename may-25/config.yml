@@ -1,0 +1,4 @@
+data:
+  path:
+    inp: "./../inp/"
+    out: "./../op/"
